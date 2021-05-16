@@ -1,23 +1,24 @@
 {
-  "title": "<Tsurenai Kanojo no Hitorijime>",
-  "description": "<That youth, blue sensuality. A thrilling real high school love story! High schooler Nachi Shinohara is a social butterfly. He can get along with anyone. On the other hand, there's the lone wolf, Takizawa Yuuri. A chance exchange of words leads to a relationship that no one knows about.>",
-  "artist": "<Amazato Sugar>",
-  "author": "<Amazato Sugar>",
-  "cover": "<2934.jpg>",
-  "chapters": {
-    "<1>": {
-      "title": "<Connected>",
-      "volume": "<1>",
-      "groups": {
-        "<ChocoChocoTL>": "/proxy/api/imgur/chapter/0fnPEzT/"
-      },
-    },
-    "<2>": {
-      "title": "<Why>",
-      "volume": "<1>",
-      "groups": {
-        "<ChocoChocoTL>": "/proxy/api/imgur/chapter/cxAP1lg/"
-      },
-    },
-  }
+   "title":"<Tsurenai Kanojo no Hitorijime>",
+   "description":"<That youth, blue sensuality. A thrilling real high school love story! High schooler Nachi Shinohara is a social butterfly. He can get along with anyone. On the other hand, there's the lone wolf, Takizawa Yuuri. A chance exchange of words leads to a relationship that no one knows about.>",
+   "artist":"<Amazato Sugar>",
+   "author":"<Amazato Sugar>",
+   "cover":"<2934.jpg>",
+   "chapters":{
+      "<1>":{
+         "title":"<Connected>",
+         "volume":"<1>",
+         "groups":{
+            "<ChocoChocoTL>":"/proxy/api/imgur/chapter/0fnPEzT/"
+         },
+         "last_updated":"1616368746"
+      }"<2>":{
+         "title":"<Why>",
+         "volume":"<1>",
+         "groups":{
+            "<ChocoChocoTL>":"/proxy/api/imgur/chapter/cxAP1lg/"
+         },
+         "last_updated":"1616368746"
+      }
+   }
 }
