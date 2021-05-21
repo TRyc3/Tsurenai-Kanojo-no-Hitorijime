@@ -5,6 +5,14 @@
    "author":"Amazato Sugar",
    "cover":"https://imgur.com/a/DlwasyS.jpg",
    "chapters":{
+      "0":{
+         "title":"Preserialization",
+         "volume":"1",
+         "groups":{
+            "ChocoChocoTL":"/proxy/api/imgur/chapter/Bh54ZSm/"
+         },
+         "last_updated":"1616368746"
+      },
       "1":{
          "title":"Connected",
          "volume":"1",
