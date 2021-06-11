@@ -29,10 +29,18 @@
          "last_updated":"1616368746"
       },
       "3":{
-         "title":"Like (part1)",
+         "title":"Like (part 1)",
          "volume":"1",
          "groups":{
             "ChocoChocoTL":"/proxy/api/imgur/chapter/vNIGJWB/"
+         },
+         "last_updated":"1616368746"
+      },
+      "4"":{
+         "title":"Like (part 2)",
+         "volume":"1",
+         "groups":{
+            "ChocoChocoTL":"/proxy/api/imgur/chapter/8YQjJrI/"
          },
          "last_updated":"1616368746"
       }
